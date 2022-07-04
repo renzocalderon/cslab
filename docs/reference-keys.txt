@@ -1,3 +1,4 @@
-down-the-rabbit-hole
-the-pool-of-tears
-a-caucus-race-and-a-long-tale
+session-1
+this-is-excercise-1
+session-2
+session-3
