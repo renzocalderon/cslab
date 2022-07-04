@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "CSLab 2022"
+author: "Mod by RCA"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
